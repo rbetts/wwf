@@ -3,6 +3,6 @@ Words with friends letter frequency
 Provide a csv file, letters.txt, formated: letter, frequency, value.
 
 Outputs total points associated with that letter and total raw
-letter points available in the game.
-
-
+letter points available in the game. You can compare this point total
+to the final combined score in your game to determine the average
+point multiplier.
